@@ -8,7 +8,7 @@ This is where I’ve gathered all my implementations for machine learning in Pyt
 - **Streamlit Interfaces:** Transformed Python scripts into interactive web apps with minimal code.
 
 
-**Langchain-implemetations:**
+**Langchain-implementations:**
 - **Prompting Techniques:** Utilized few-shot prompting, Chain of Thought, and ReAct prompting to guide model responses.
 - **Chat & Open Source Models:** Explored conversational agents and community-driven model alternatives.
 - **Prompt Engineering:** Involves crafting effective Prompts, using PromptTemplates (e.g., langchainub), and output parsers like Pydantic.
